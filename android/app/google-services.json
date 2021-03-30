@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "907845545250",
+    "project_id": "note-chat-test",
+    "storage_bucket": "note-chat-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907845545250:android:3a7fc4e26f5ccaca33c97b",
+        "android_client_info": {
+          "package_name": "com.khj.note_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907845545250-p31jufg0uc657mf6qmjotbf762nf0h3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfHrQYdc4tHierjVUCqahv86-WdeU87cQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907845545250-p31jufg0uc657mf6qmjotbf762nf0h3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
