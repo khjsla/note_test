@@ -41,7 +41,7 @@ class _FireBase_MessagingState extends State<FireBase_Messaging> {
                   actions: [
                     FlatButton(
                         onPressed: () => Navigator.of(context).pop(),
-                        child: Text('OK'))
+                        child: Text('OK1'))
                   ],
                 ));
       },
@@ -55,7 +55,7 @@ class _FireBase_MessagingState extends State<FireBase_Messaging> {
                   actions: [
                     FlatButton(
                         onPressed: () => Navigator.of(context).pop(),
-                        child: Text('OK'))
+                        child: Text('OK2'))
                   ],
                 ));
       },
@@ -69,7 +69,7 @@ class _FireBase_MessagingState extends State<FireBase_Messaging> {
                   actions: [
                     FlatButton(
                         onPressed: () => Navigator.of(context).pop(),
-                        child: Text('OK'))
+                        child: Text('OK3'))
                   ],
                 ));
       },
